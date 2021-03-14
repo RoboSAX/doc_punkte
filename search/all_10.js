@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['save_5fgame_5fto_5fdb',['save_game_to_db',['../classGame.html#aa156feb931adc9af20cb3cad6d696b1b',1,'Game']]],
+  ['save_5fteam_5fto_5fdb',['save_team_to_db',['../classTeam.html#a419fb6119a0b50f55cde54a385f98ec0',1,'Team']]],
+  ['save_5fteams_5fto_5fdb',['save_teams_to_db',['../classTeams.html#a801ae4d1a9984060bd059c8ae8184358',1,'Teams']]],
+  ['schiri_2ephp',['schiri.php',['../schiri_8php.html',1,'']]],
+  ['schiri_5fmain_2ephp',['schiri_main.php',['../schiri__main_8php.html',1,'']]],
+  ['select',['Select',['../db__manip_8php.html#a9018c4b481f6cea3a94307a92272d6f6',1,'db_manip.php']]],
+  ['set_5factive',['set_active',['../classTeam.html#a5b2feee9dad995bcc1286a8d36052a22',1,'Team\set_active()'],['../classGame.html#ac4f70797c016479c76dbe100f4f75693',1,'Game\set_active()']]],
+  ['set_5fblock',['set_block',['../classGame.html#a9683d99363f2b5752cbdbe91f503ea34',1,'Game']]],
+  ['set_5ffinished',['set_finished',['../classGame.html#a3e2501cb7f6358c6282ac6753b5162b5',1,'Game']]],
+  ['set_5fhighlight',['set_highlight',['../classGame.html#a93eaaadfe9485aba1554aec4625823b3',1,'Game']]],
+  ['set_5fname',['set_name',['../classTeam.html#a830ce4cf935e1f8ecf4ed2be8ddc750d',1,'Team']]],
+  ['set_5fpoints',['set_points',['../classTeam.html#a37e57faaf9ac1078875de1cff12f8260',1,'Team\set_points()'],['../classGame.html#a26d18e13e3a1f8ce9927c2136d432631',1,'Game\set_points()']]],
+  ['set_5fposition',['set_position',['../classTeam.html#ac86db51ff441e46e327c30543dcf6fe1',1,'Team']]],
+  ['set_5frobot',['set_robot',['../classTeam.html#a52d561596c47cf90079c41b6f76fc064',1,'Team']]],
+  ['set_5fteam',['set_team',['../classGame.html#a2ee2b2ffc99548162775e17e68ab6585',1,'Game']]],
+  ['set_5fteamleader',['set_teamleader',['../classTeam.html#aa6bb9c99d7b92e7b84da316c7b424bff',1,'Team']]],
+  ['set_5ftime_5fact',['set_time_act',['../classGame.html#a8dbf800056291ae048cd2bc6eaea0984',1,'Game']]],
+  ['set_5ftime_5fstart',['set_time_start',['../classGame.html#a54d5c72955451f68d5ed8086f709dd61',1,'Game']]],
+  ['setgamesinactive',['SetGamesInactive',['../db__manip_8php.html#ad5dccc1e124e1f54810df4f50cba0e9a',1,'db_manip.php']]],
+  ['settings_5ftemplate_2eini',['settings_template.ini',['../settings__template_8ini.html',1,'']]],
+  ['switch',['switch',['../guru__main_8php.html#a046e6bd621405b772c4487c66a41a597',1,'guru_main.php']]]
+];
